@@ -53,6 +53,8 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
 
 * (Story) Total Sales By Years Since Renovation 
 
+<img width="1370" height="772" alt="image" src="https://github.com/user-attachments/assets/d91bde92-f78e-41af-9b55-1f3e0da7130d" />
+
 
 ---
 
