@@ -45,6 +45,17 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
 
 ---
 
+## 📸 Project Screenshots 
+
+* Total Sales By Year Since Renovations -
+
+
+* Comprehensive House Price Analysis - 
+
+
+---
+
+
 ## 🛠 Tools Used
 
 - **Tableau Public / Tableau Desktop**
